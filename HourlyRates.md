@@ -4,8 +4,8 @@ title: Hourly Rates
 subtitle: 
 ---
 
- ## Standardized Tests
- # ACT
+ # Standardized Tests
+ ## ACT
  
  $100
  
@@ -13,12 +13,12 @@ subtitle:
  
  $75
  
- ## Subject Tutoring
- # Math: _Algebra I & II, Trigonometry, Geometry_
+ # Subject Tutoring
+ ## Math: _Algebra I & II, Trigonometry, Geometry_
  
  $50
  
- # English: _Essay Editting and Feedback_
+ ## English: _Essay Editting and Feedback_
  
  $100
  
