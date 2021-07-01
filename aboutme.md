@@ -1,9 +1,0 @@
----
-layout: page
-title: About me
-subtitle: 
----
-
-### Hi I'm Steven, an ACT specialist and 35 scorer
-
-I've been tutoring ACT for three years, with my students averaging about a 3 point increase between their first and last sessions. My approach to the ACT is structural; I treat the test as a game of sorts, showing what types of patterns the test designers tend to emphasize. I enjoy figuring out the way my students think, and I try to present concepts in a way I think they would most easily understand. I have a knack for spotting if someone is reasoning ineffectively, and I am competent at correcting inaccurate approaches. I would love to tutor you or your student!
