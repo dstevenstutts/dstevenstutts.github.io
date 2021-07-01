@@ -97,11 +97,11 @@ post_search: true
 navbar-col: "#8E8E8A"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFACD"
+page-col: "#EAE7DC"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#907163"
+footer-col: "#8E8E8A"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
