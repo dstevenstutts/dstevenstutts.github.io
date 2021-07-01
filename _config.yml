@@ -14,7 +14,7 @@ author: Steven Stutts
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Hourly Rates: "HourlyRates"
+  Hourly Rates: "hourlyrates"
   Resources:
     - Online Whiteboard: "https://www.whiteboard.team/board/428VCKCXGZ1GBOF"
     - Provide Feedback: "https://docs.google.com/forms/d/e/1FAIpQLSdC90RjWX08WmiDA676jYQtTKvdcEJZPaxvfIB7gNsJMM_FVg/viewform?usp=sf_link"
