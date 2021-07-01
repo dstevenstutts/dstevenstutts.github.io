@@ -5,7 +5,6 @@ subtitle: feedback from past ACT students
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
 ---
 
 "It has been so amazing tutoring with Steven! He is so personable, understanding, smart, and intuitive! He is not only an amazing tutor but an amazing mentor! I will be recommending him to all of my friends and can’t wait to continue to work with him in the future!" - Grace
