@@ -1,6 +1,6 @@
 ---
 layout: page
-subtitle: Rates
+title: Rates
 ---
 # Standardized Tests 
 ACT: $100
