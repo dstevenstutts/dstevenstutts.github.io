@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+align: center
 ---
 # Standardized Tests 
 ACT: $100
