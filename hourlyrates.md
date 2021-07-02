@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Hourly Rates
-subtitle: How much you can expect to pay
 ---
 # Standardized Tests 
 ACT: $100
