@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: minimal
 ---
 # Standardized Tests 
 ACT: $100
