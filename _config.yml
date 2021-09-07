@@ -14,12 +14,14 @@ author: Steven Stutts
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Apply: "https://docs.google.com/forms/d/e/1FAIpQLSdDgiTX0WBrBun7bQsM0E-nNVEVUWW2rL4mkMMhK4Mi5U9Ypg/viewform?usp=sf_link" 
   Hourly Rates: "hourlyrates"
   Resources:
     - Zoom: "https://us04web.zoom.us/j/78879030641?pwd=TmQwYVAxRGJyNVh0Qm5CakpCM21Ydz09"
     - Provide Feedback: "https://docs.google.com/forms/d/e/1FAIpQLSdC90RjWX08WmiDA676jYQtTKvdcEJZPaxvfIB7gNsJMM_FVg/viewform?usp=sf_link"
     - Calendar: "https://calendar.google.com/calendar/embed?src=oovomlf4hg1gilo9k7qukqvbfk%40group.calendar.google.com&ctz=America%2FChicago"
-  Contact: "mailto:stevenstuttsonlinetutoring@gmail.com"
+  Contact: 
+    - Email: "mailto:stevenstuttsonlinetutoring@gmail.com"
 
 # --- Logo --- #
 
