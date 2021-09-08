@@ -24,7 +24,7 @@ navbar-links:
     - Calendar: "https://calendar.google.com/calendar/embed?src=oovomlf4hg1gilo9k7qukqvbfk%40group.calendar.google.com&ctz=America%2FChicago"
   Contact: 
     - Email: "mailto:stevenstuttsonlinetutoring@gmail.com"
-    - Phone: "(tel:+‪15736771161‬)"
+    - Phone: "https://docs.google.com/forms/d/e/1FAIpQLSdC90RjWX08WmiDA676jYQtTKvdcEJZPaxvfIB7gNsJMM_FVg/viewform?usp=sf_link"
 
 # --- Logo --- #
 
@@ -45,7 +45,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "stevenstuttsact@gmail.com"
+  email: "stevenstuttsonlinetutoring@gmail.com"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
